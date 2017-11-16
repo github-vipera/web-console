@@ -17,7 +17,7 @@ cd ..
 cd WebAdminDemoApp
 npm install
 npm run start
-```console
+```
 
 
 then open browser at: http://localhost:4200/
