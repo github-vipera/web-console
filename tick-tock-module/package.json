@@ -57,7 +57,7 @@
     "tslint": "tslint"
   },
   "dependencies": {
-    "web-admin-core": "file:///Users/enrico/Develop/temp/testDashboard/test-angular/web-admin-core"
+    "web-admin-core": "../web-admin-core"
   },
   "peerDependencies": {
     "@angular/common": "^4.0.0",
