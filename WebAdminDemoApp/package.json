@@ -24,8 +24,8 @@
     "@angular/router": "^4.2.4",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
-    "tick-tock-module": "file:///Users/enrico/Develop/temp/testDashboard/test-angular/tick-tock-module",
-    "web-admin-core": "file:///Users/enrico/Develop/temp/testDashboard/test-angular/web-admin-core",
+    "tick-tock-module": "../tick-tock-module",
+    "web-admin-core": "../web-admin-core",
     "zone.js": "^0.8.14"
   },
   "devDependencies": {
