@@ -1,6 +1,10 @@
 # web-console
 Modular Web Console Prototype based on Angular
 
+## Prerequisites
+
+This setup requires a nodejs (https://nodejs.org) installed locally on your workstation.
+
 ## Install guide
 
 ```console
