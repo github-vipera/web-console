@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { Observable } from 'rxjs/Rx';
-import { ComponentRegistry } from '../../index';
+import { PluginRegistry } from '../../index';
 import { Route } from '@angular/router';
 import { Router } from '@angular/router';
 
@@ -13,7 +13,7 @@ export class WebAdminPluginManagerService {
     }
     createRouteConfigFromCatalog():Array<Route>{
         //TODO fetch plugin from server and merge data with this config
-        return ComponentRegistry.getInstance().getRouteConfig();
+        return PluginRegistry.getInstance().getRouteConfig();
     }
 }
 
