@@ -1,0 +1,7 @@
+web-admin-core/tmp
+web-admin-core/dist
+web-admin-core/node_modules
+tick-tock-module/node_modules
+tick-tock-module/tmp
+tick-tock-module/dist
+WebAdminDemoApp/node_modules
